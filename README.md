@@ -25,9 +25,9 @@ git clone https://github.com/tu_usuario/PruebaTienda.git
 ```
 Ejecución
 Para ejecutar este proyecto, navega hasta el directorio del proyecto y ejecuta el siguiente comando:
-
+```
 dotnet watch -lp https
-
+```
 Esto iniciará el servidor y podrás acceder a la aplicación a través de tu navegador web en https://localhost:7238.
 
 
