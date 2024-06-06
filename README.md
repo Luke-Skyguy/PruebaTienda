@@ -13,6 +13,9 @@ Swashbuckle.AspNetCore
 Tests Unitarios:
 Microsoft.Xunit (En instancias separadas)
 
+Workfow Git:
+DotnetGithub yml
+
 ## Requisitos
 Para ejecutar este proyecto necesitas tener instalado .NET 8.0 o una versión superior.
 Tambien sera necesario una base de datos de Microsoft SQL Server (V2022)
