@@ -19,6 +19,9 @@ DotnetGithub yml
 ## Requisitos
 Para ejecutar este proyecto necesitas tener instalado .NET 8.0 o una versión superior.
 Tambien sera necesario una base de datos de Microsoft SQL Server (V2022)
+Para parametrizar la base de datos, en /appsettings.json
+Parametro Default en ConnectionStrings
+
 
 ## Instalación
 Clona este repositorio en tu máquina local usando el siguiente comando:
