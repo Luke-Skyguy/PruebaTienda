@@ -11,7 +11,7 @@ Middleware:
 Swashbuckle.AspNetCore
 
 Tests Unitarios:
-Microsoft.Xunit (En instancias)
+Microsoft.Xunit (En instancia)
 
 Workfow Git:
 DotnetGithub 
