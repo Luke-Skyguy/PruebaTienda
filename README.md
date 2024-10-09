@@ -11,10 +11,10 @@ Middleware:
 Swashbuckle.AspNetCore
 
 Tests Unitarios:
-Microsoft.Xunit (En instancias separadas)
+Microsoft.Xunit (En instancias)
 
 Workfow Git:
-DotnetGithub yml
+DotnetGithub 
 
 ## Requisitos
 Para ejecutar este proyecto necesitas tener instalado .NET 8.0 o una versión superior.
